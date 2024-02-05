@@ -2,11 +2,11 @@
 
 #### Orchestration
 
-• A large part of data engineering is Extracting, Transforming and Loading between sources.
+* A large part of data engineering is Extracting, Transforming and Loading between sources.
 
-• Orchestration is a process of dependency management, facilitated through automation. The data orchestrator manages scheduling, triggering, monitoring and even resource allocation.
+* Orchestration is a process of dependency management, facilitated through automation. The data orchestrator manages scheduling, triggering, monitoring and even resource allocation.
 
-••A good Orchestrator tool is like a good conductor in an orchestra, constantly managing the correct cadence, tempo, understanding the 'symphony'••
+**A good Orchestrator tool is like a good conductor in an orchestra, constantly managing the correct cadence, tempo, understanding the 'symphony'**
 
 • This Orchestration workflow is done in a sequence of steps.
 
@@ -26,7 +26,7 @@
     • Feedback Loops - need to get tangible feedback straightaway
     • Cognitive Load
 
-• ••Mage•• is one of many tools used as an orchestration solution.
+• **Mage** is one of many tools used as an orchestration solution.
 
 **There is no perfect solution and the right solution for your use case may be different to someone else's**
 

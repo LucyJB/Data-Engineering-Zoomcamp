@@ -11,7 +11,7 @@ Dataset located here: https://console.cloud.google.com/bigquery?project=calcium-
 
 * Question 1. Question 1: What is count of records for the 2022 Green Taxi Data?
 
-Query: ` SELECT count (*) FROM `calcium-alchemy-256812.Taxi.combined_taxi_data` `  
+Query: `SELECT count (*) FROM calcium-alchemy-256812.Taxi.combined_taxi_data` 
 
 
 
